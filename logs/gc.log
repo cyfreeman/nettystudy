@@ -1,0 +1,16 @@
+Java HotSpot(TM) 64-Bit Server VM (25.191-b12) for windows-amd64 JRE (1.8.0_191-b12), built on Oct  6 2018 09:29:03 by "java_re" with MS VC++ 10.0 (VS2010)
+Memory: 4k page, physical 7802196k(1532740k free), swap 20105512k(9092644k free)
+CommandLine flags: -XX:InitialHeapSize=124835136 -XX:MaxHeapSize=1997362176 -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:-UseLargePagesIndividualAllocation -XX:+UseParallelGC 
+2020-08-13T18:00:34.595+0800: 0.621: [GC (System.gc()) [PSYoungGen: 17640K->1256K(35840K)] 17640K->11504K(117760K), 0.0498416 secs] [Times: user=0.11 sys=0.02, real=0.05 secs] 
+2020-08-13T18:00:34.645+0800: 0.671: [Full GC (System.gc()) [PSYoungGen: 1256K->0K(35840K)] [ParOldGen: 10248K->11427K(81920K)] 11504K->11427K(117760K), [Metaspace: 4812K->4812K(1056768K)], 0.0140109 secs] [Times: user=0.05 sys=0.00, real=0.01 secs] 
+2020-08-13T18:00:36.659+0800: 2.685: [GC (System.gc()) [PSYoungGen: 2744K->352K(35840K)] 14171K->11787K(117760K), 0.0138356 secs] [Times: user=0.00 sys=0.00, real=0.01 secs] 
+2020-08-13T18:00:36.673+0800: 2.699: [Full GC (System.gc()) [PSYoungGen: 352K->0K(35840K)] [ParOldGen: 11435K->6264K(81920K)] 11787K->6264K(117760K), [Metaspace: 5186K->5186K(1056768K)], 0.0415634 secs] [Times: user=0.00 sys=0.00, real=0.04 secs] 
+Heap
+ PSYoungGen      total 35840K, used 581K [0x00000000d8500000, 0x00000000dad00000, 0x0000000100000000)
+  eden space 30720K, 1% used [0x00000000d8500000,0x00000000d8591790,0x00000000da300000)
+  from space 5120K, 0% used [0x00000000da800000,0x00000000da800000,0x00000000dad00000)
+  to   space 5120K, 0% used [0x00000000da300000,0x00000000da300000,0x00000000da800000)
+ ParOldGen       total 81920K, used 6264K [0x0000000088e00000, 0x000000008de00000, 0x00000000d8500000)
+  object space 81920K, 7% used [0x0000000088e00000,0x000000008941e2d0,0x000000008de00000)
+ Metaspace       used 5197K, capacity 5270K, committed 5504K, reserved 1056768K
+  class space    used 602K, capacity 625K, committed 640K, reserved 1048576K

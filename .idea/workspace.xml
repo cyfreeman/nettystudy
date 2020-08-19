@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="415d2c3e-9c09-4883-9edf-851234364309" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fiT63PJGtGhuLD9irNenbPKekq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/netty/netty/codec" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="jvm.analyseFun" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\code\JavaArchitectureStudyPlan\huffman\cytest" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="netty.netty.protocoltcp.server" />
+      <recent name="netty.netty.simple" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\code\JavaArchitectureStudyPlan\huffman\cytest\src\netty\netty\codec" />
+      <recent name="D:\work\code\JavaArchitectureStudyPlan\huffman\cytest\src\netty\netty\httpsocket" />
+      <recent name="D:\work\code\JavaArchitectureStudyPlan\huffman\cytest\lib" />
+      <recent name="D:\work\code\JavaArchitectureStudyPlan\huffman\cytest" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="netty.netty.protocoltcp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MyClient">
+    <configuration name="Analyse" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jvm.analyseFun.Analyse" />
+      <module name="cytest" />
+      <option name="VM_PARAMETERS" value="-XX:+PrintFlagsInitial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jvm.analyseFun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupChatClient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.netty.groupchat.GroupChatClient" />
+      <module name="cytest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="netty.netty.groupchat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.netty.groupchat.GroupChatServer" />
+      <module name="cytest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="netty.netty.groupchat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyClient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.netty.protocoltcp.client.MyClient" />
+      <module name="cytest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="netty.netty.protocoltcp.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.netty.protocoltcp.server.MyServer" />
+      <module name="cytest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="netty.netty.protocoltcp.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.netty.heartbeat.MyServer" />
+      <module name="cytest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="netty.netty.heartbeat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Analyse" />
+      <item itemvalue="Application.GroupChatServer" />
+      <item itemvalue="Application.GroupChatClient" />
+      <item itemvalue="Application.MyServer" />
+      <item itemvalue="Application.MyServer (1)" />
+      <item itemvalue="Application.MyClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyClient" />
+        <item itemvalue="Application.MyServer (1)" />
+        <item itemvalue="Application.GroupChatClient" />
+        <item itemvalue="Application.MyServer" />
+        <item itemvalue="Application.GroupChatServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="415d2c3e-9c09-4883-9edf-851234364309" name="Default Changelist" comment="" />
+      <created>1596699734630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596699734630</updated>
+      <workItem from="1596699737862" duration="5606000" />
+      <workItem from="1596787569954" duration="3775000" />
+      <workItem from="1597193658671" duration="207000" />
+      <workItem from="1597193937357" duration="492000" />
+      <workItem from="1597194470487" duration="10970000" />
+      <workItem from="1597209225877" duration="56221000" />
+      <workItem from="1597645115848" duration="203000" />
+      <workItem from="1597645598542" duration="30780000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="206" key="#Java" timestamp="1597215145022">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="556" y="206" key="#Java/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597215145022" />
+    <state x="400" y="282" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597797853547">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="400" y="282" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597797853547" />
+    <state x="698" y="356" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597730559596">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="356" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597730559596" />
+    <state x="743" y="252" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1597221605740">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="252" key="#com.intellij.ide.macro.MacrosDialog/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597221605740" />
+    <state x="727" y="251" key="#com.intellij.ide.util.MemberChooser" timestamp="1597797048911">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="727" y="251" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597797048911" />
+    <state x="693" y="332" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1597221760208">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="332" key="#com.intellij.ide.util.TreeClassChooserDialog/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597221760208" />
+    <state x="824" y="315" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1597644600651">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="824" y="315" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597644600651" />
+    <state x="724" y="356" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1597802936540">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="724" y="356" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597802936540" />
+    <state width="434" height="466" key="DebuggerActiveHint" timestamp="1597651255621">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="434" height="466" key="DebuggerActiveHint/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597651255621" />
+    <state x="690" y="343" key="FileChooserDialogImpl" timestamp="1597645757259">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="343" key="FileChooserDialogImpl/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597645757259" />
+    <state width="1920" height="681" key="GridCell.Tab.0.bottom" timestamp="1597799040909">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1680" height="271" key="GridCell.Tab.0.bottom/-1680.0.1680.1050/0.0.1680.1050@0.0.1680.1050" timestamp="1597548655191" />
+    <state width="1920" height="282" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1597221238976" />
+    <state width="1920" height="681" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597799040909" />
+    <state width="1920" height="681" key="GridCell.Tab.0.center" timestamp="1597799040909">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1680" height="271" key="GridCell.Tab.0.center/-1680.0.1680.1050/0.0.1680.1050@0.0.1680.1050" timestamp="1597548655191" />
+    <state width="1920" height="282" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1597221238974" />
+    <state width="1920" height="681" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597799040909" />
+    <state width="1920" height="681" key="GridCell.Tab.0.left" timestamp="1597799040909">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1680" height="271" key="GridCell.Tab.0.left/-1680.0.1680.1050/0.0.1680.1050@0.0.1680.1050" timestamp="1597548655191" />
+    <state width="1920" height="282" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1597221238973" />
+    <state width="1920" height="681" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597799040909" />
+    <state width="1920" height="681" key="GridCell.Tab.0.right" timestamp="1597799040909">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1680" height="271" key="GridCell.Tab.0.right/-1680.0.1680.1050/0.0.1680.1050@0.0.1680.1050" timestamp="1597548655191" />
+    <state width="1920" height="282" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1597221238976" />
+    <state width="1920" height="681" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597799040909" />
+    <state width="1920" height="308" key="GridCell.Tab.1.bottom" timestamp="1597716648310">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1680" height="304" key="GridCell.Tab.1.bottom/-1680.0.1680.1050/0.0.1680.1050@0.0.1680.1050" timestamp="1597545382013" />
+    <state width="1920" height="308" key="GridCell.Tab.1.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597716648310" />
+    <state width="1920" height="308" key="GridCell.Tab.1.center" timestamp="1597716648310">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1680" height="304" key="GridCell.Tab.1.center/-1680.0.1680.1050/0.0.1680.1050@0.0.1680.1050" timestamp="1597545382012" />
+    <state width="1920" height="308" key="GridCell.Tab.1.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597716648310" />
+    <state width="1920" height="308" key="GridCell.Tab.1.left" timestamp="1597716648310">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1680" height="304" key="GridCell.Tab.1.left/-1680.0.1680.1050/0.0.1680.1050@0.0.1680.1050" timestamp="1597545382011" />
+    <state width="1920" height="308" key="GridCell.Tab.1.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597716648310" />
+    <state width="1920" height="308" key="GridCell.Tab.1.right" timestamp="1597716648310">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1680" height="304" key="GridCell.Tab.1.right/-1680.0.1680.1050/0.0.1680.1050@0.0.1680.1050" timestamp="1597545382012" />
+    <state width="1920" height="308" key="GridCell.Tab.1.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597716648310" />
+    <state x="474" y="176" key="SettingsEditor" timestamp="1597802942777">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="474" y="176" key="SettingsEditor/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597802942777" />
+    <state x="682" y="448" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597802834377">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="682" y="448" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597802834377" />
+    <state x="735" y="266" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597194291068">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="735" y="266" key="com.intellij.testIntegration.createTest.CreateTestDialog/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597194291068" />
+    <state x="656" y="302" key="extract.method.dialog" timestamp="1597629147633">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="574" y="294" key="extract.method.dialog/-1680.0.1680.1050/0.0.1680.1050@0.0.1680.1050" timestamp="1597545677874" />
+    <state x="656" y="302" key="extract.method.dialog/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597629147633" />
+    <state x="389" y="171" key="new project wizard" timestamp="1597731452158">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="389" y="171" key="new project wizard/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597731452158" />
+    <state x="623" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1597796714937">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="237" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1597796714937" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/netty/netty/http/HttpServerHandler.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cytest$WechatClient.ic" NAME="WechatClient Coverage Results" MODIFIED="1597632514642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>netty.wechat.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
